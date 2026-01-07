@@ -1,0 +1,47 @@
+DOWNTOWN MEDICAL CENTER
+Office Visit Note
+
+Date of Service: January 3, 2025
+Provider: Dr. Sarah Chen, MD
+Specialty: Internal Medicine
+Patient: John Smith
+DOB: 03/15/1980
+
+CHIEF COMPLAINT:
+Persistent cough and mild fever for the past 5 days.
+
+HISTORY OF PRESENT ILLNESS:
+Patient is a 44-year-old male presenting with a productive cough that started approximately 5 days ago. He reports yellowish sputum, mild fever (measured at home as 100.4°F), and general fatigue. No shortness of breath or chest pain. No recent travel or known sick contacts.
+
+VITAL SIGNS:
+Blood Pressure: 122/78 mmHg
+Heart Rate: 76 bpm
+Temperature: 99.8°F
+Respiratory Rate: 16
+Oxygen Saturation: 97% on room air
+
+PHYSICAL EXAMINATION:
+General: Alert and oriented, no acute distress
+HEENT: Oropharynx mildly erythematous, no exudates
+Lungs: Scattered rhonchi bilateral bases, no wheezes
+Heart: Regular rate and rhythm, no murmurs
+Abdomen: Soft, non-tender
+
+ASSESSMENT:
+1. Acute bronchitis, likely viral etiology (ICD-10: J20.9)
+2. Low-grade fever
+
+PLAN:
+1. Supportive care with rest and fluids
+2. Benzonatate 100mg capsules - take one capsule three times daily as needed for cough
+3. Acetaminophen 500mg - take 1-2 tablets every 6 hours as needed for fever
+4. Return if symptoms worsen, develop shortness of breath, or fever exceeds 102°F
+
+FOLLOW-UP:
+Return in 7-10 days if symptoms persist. Call sooner if worsening.
+
+Electronically signed by:
+Dr. Sarah Chen, MD
+Internal Medicine
+Downtown Medical Center
+Phone: (555) 123-4567
